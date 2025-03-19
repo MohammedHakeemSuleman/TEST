@@ -40,7 +40,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(945, 69);
             this.label1.TabIndex = 0;
-            this.label1.Text = "THIS IS FOR TEST PURPOSES!";
+            this.label1.Text = "THIS IS FOR TEST PURPOSES ONLY!";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button1
